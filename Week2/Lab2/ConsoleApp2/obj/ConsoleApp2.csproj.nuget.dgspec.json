@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week1\\Week1Lab\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week2\\Lab2\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week1\\Week1Lab\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week2\\Lab2\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week1\\Week1Lab\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week1\\Week1Lab\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week2\\Lab2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week2\\Lab2\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week1\\Week1Lab\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\david\\OneDrive\\Desktop\\BackEndWebDev\\http5125-backEndWebDev-fall2025\\Week2\\Lab2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
